@@ -1,5 +1,5 @@
 ##############################################################################
-C language tutorial 22
+C language tutorial
 ##############################################################################
 
 
@@ -8,14 +8,14 @@ C language tutorial 22
    :titlesonly:
    :caption: Preface
 
-   ../codes/preface/c_preface.rst
+   codes/preface/c_preface.rst
 
 
 .. toctree::
    :titlesonly: 
    :caption: Preparation
    
-   ../codes/preface/c_preparation.rst
+   codes/preface/c_preparation.rst
 
 .. toctree::
    :numbered:
@@ -28,4 +28,4 @@ C language tutorial 22
    codes/c-lang/Analog & PWM.rst
    codes/c-lang/RGB LED.rst
    codes/c-lang/Buzzer.rst
-   codes/common/WhatsNext.rst
+   codes/c-lang/WhatsNext.rst
